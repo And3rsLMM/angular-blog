@@ -1,5 +1,7 @@
 # AngularBlog
 
+A simple blog project created with Angular for study purposes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
